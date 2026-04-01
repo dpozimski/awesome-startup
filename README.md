@@ -127,6 +127,12 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [The one cost engineers and product managers don't consider](https://web.archive.org/web/20200728004935if_/https://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
 - Software Engineering and Development is expensive and delicate. Use [Spurwing](https://www.spurwing.io/) instead of reinventing the wheel when it comes to time management solutions. Spurwing is like Stripe but for appointment scheduling. This API makes it easy to add robust appointment booking and calendaring features to any application. The Spurwing API is a secure and feature-rich, accessible product for building custom solutions, product integrations, scheduling and calendaring widgets. You are only limited by your own imagination.
 Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
+- [FreeKit](https://freekit.dev) - All-in-one free developer API toolkit for startups, bundling QR codes, URL shortening, screenshots, HTML-to-PDF, and Open Graph image generation.
+- [QRMint](https://qrmint.com) - Free styled QR code generation API for adding branded QR codes to your product.
+- [LinkShrink](https://linkshrink.softvoyagers.com) - Free URL shortener API for creating and managing short links programmatically.
+- [PageShot](https://pageshot.softvoyagers.com) - Free screenshot API to capture web page screenshots on the fly.
+- [PDFSpark](https://pdfspark.softvoyagers.com) - Free HTML to PDF conversion API for generating invoices, reports, and documents.
+- [OGForge](https://ogforge.softvoyagers.com) - Free Open Graph image generator API for creating dynamic social share images.
 
 
 # Venture Capital and Raising Money
